@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Blun.ConfigurationManager</id>
+    <version>1.0.5686.2674</version>
+    <title>ConfigurationManager over more then one Assembly app.config</title>
+    <authors>Bjoern Lundstroem, Björn Lundström</authors>
+    <owners>Bjoern Lundstroem, Björn Lundström</owners>
+    <licenseUrl>https://github.com/BLun78/Blun.ConfigurationManager/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/BLun78/Blun.ConfigurationManager</projectUrl>
+    <iconUrl>http://iconmonstr.com/g/gd/makefg.php?i=s2/default/iconmonstr-control-panel-4-icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>ConfigurationManager for using App.config and Web.config of different assemblys. It have a Wcf.ChannelFactory wich use the ConfigurationManager.</description>
+    <summary>ConfigurationManager for using App.config and Web.config of different assemblys. It have a Wcf.ChannelFactory wich use the ConfigurationManager.</summary>
+    <copyright>Copyright ©  2015</copyright>
+    <tags>AppSettings WCF ChannelFactory ConfigurationManager System.Configuration ServiceModel</tags>
+    <dependencies />
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.ServiceModel" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

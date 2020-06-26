@@ -1,0 +1,203 @@
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.TempleteForm.resources
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+\\DGHONEY-PC\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.AddItems.AddItemsForm.resources
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.AddItems.AddItemsForm.resources
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.POSForm.InvoicesForm.resources
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.StockManagementForm.resources
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.TempleteForm.resources
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SalesForm.SaleForm.resources
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\Dg Honey\Documents\Visual Studio 2013\Projects\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.AddItems.AddItemsForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.POSForm.InvoicesForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SalesForm.SaleForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.StockManagementForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.TempleteForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+C:\Users\shahzeb-pc\Desktop\Shahi_Responsive\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\shahzeb-pc\Desktop\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+F:\EducationalVideo\Desktop Applications\C #\Projects\Shezu_ShahiJewellers_Report Pending\ProjAQIB\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+C:\Users\aqib-pc\Desktop\Merge_Shahi_AS-ReportPending\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.ReceiptPrint.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\RdlCompile.cache
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\RdlCompile.compiled
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\shahzeb-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.ReceiptPrint.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\RdlCompile.cache
+C:\Users\aqib-pc\Desktop\Shahi_Jewellers\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\RdlCompile.compiled
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe.config
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.exe
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ShahiApplication.pdb
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Blun.ConfigurationManager.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\DevComponents.DotNetBar2.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\DevComponents.DotNetBar2.xml
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.CheckOrderForm.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Home.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Forms.ReceiptPrint.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.ReportForm.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Sale_Invoices_Form.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.StockForm.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.SMSForm.SMSAlertForm.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.Properties.Resources.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.WorkerForm.resources
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csproj.GenerateResource.Cache
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\RdlCompile.cache
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\RdlCompile.compiled
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.exe
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.pdb
+D:\EducationalVideo\Desktop Applications\C #\Shahi_Jewellers_1\Shahi_Jewellers\ShahiApplication\ShahiApplication\obj\Debug\ShahiApplication.csprojResolveAssemblyReference.cache
